@@ -1,0 +1,22 @@
+.app{
+    background-color: blue;
+}
+.nav{
+    background-color: #7fffd4;
+    padding: 20px 0px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+    cursor: pointer;
+}
+ul>li{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+img{
+    width: 100%;
+}
